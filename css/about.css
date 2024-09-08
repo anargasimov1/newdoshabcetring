@@ -1,0 +1,44 @@
+ .about {
+    padding-top: 90px;
+}
+ .about .about_box {
+    background: #191918;
+     padding: 55px 40px;
+}
+ .about .about_box h3 {
+     font-size: 30px;
+     line-height: 28px;
+     color: #fff;
+     font-weight: 500;
+     padding: 0;
+}
+ .about .about_box p {
+     color: #ffff;
+     font-size: 17px;
+     line-height: 28px;
+     padding: 30px 0px;
+     font-weight: 400;
+}
+ .about .about_box a {
+     color: #fff;
+     font-size: 22px;
+     line-height: 29px;
+}
+ .about .about_box a:hover {
+     color: #e7bb0b;
+}
+ .about  {
+     height: 100%;
+     margin-top: 90px;
+}
+ .about .about_img figure {
+     margin: 0;
+     margin-right: 0px;
+     padding: 92px 0px 0px 60px;
+     margin-right: -64px;
+}
+.about_img img{
+    width: 400px;
+    height: 500px;
+    border: 1px solid grey;
+}
