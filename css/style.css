@@ -405,8 +405,22 @@ header .container-fluid {
      background: #212020;
      min-height: 100vh;
      padding-top: 93px;
+     position: relative;
 }
 
+.slider_section button {
+     position: absolute;
+     background-color:#1b4cdd;
+     bottom: 40px;
+     right: 50px;
+     width: 200px;
+     height: 100px;
+     border-radius: 25px;
+     font-size: 28px;
+}
+.slider_section button a{
+     color: white;
+}
 /** slider section **/
 #main_slider {
      padding: 90px 0 30px;
@@ -1043,7 +1057,7 @@ a.article:hover {
 .blog_img_box {
      width: 300px;
      height: 300px;
-    
+
 }
 
 .buttons {
@@ -1070,4 +1084,3 @@ a.article:hover {
      border: 2px solid #114c7d58;
 
 }
-
